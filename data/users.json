@@ -1,1 +1,14 @@
-[]
+[
+  [
+    "azan",
+    {
+      "userId": "mi0oafdnm6mzekcifwe",
+      "password": "$2a$10$Qx1tfWiczmCTAgZuLkk4jOCOggHLQvn3AgU.iImjSaF6L8lfkklQu",
+      "username": "azan",
+      "contacts": [],
+      "createdAt": 1763234489435,
+      "online": true,
+      "socketId": "duIj3-M10DyqSzD0AAAB"
+    }
+  ]
+]
